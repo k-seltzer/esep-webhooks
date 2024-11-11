@@ -15,3 +15,5 @@ C:\Users\kyler\OneDrive\Documents\CIS4930 Event-Driven Architecture\esep-webhook
 C:\Users\kyler\OneDrive\Documents\CIS4930 Event-Driven Architecture\esep-webhooks\EsepWebhook\src\EsepWebhook\obj\Release\net8.0\linux-x64\EsepWebhook.pdb
 C:\Users\kyler\OneDrive\Documents\CIS4930 Event-Driven Architecture\esep-webhooks\EsepWebhook\src\EsepWebhook\obj\Release\net8.0\linux-x64\EsepWebhook.genruntimeconfig.cache
 C:\Users\kyler\OneDrive\Documents\CIS4930 Event-Driven Architecture\esep-webhooks\EsepWebhook\src\EsepWebhook\obj\Release\net8.0\linux-x64\ref\EsepWebhook.dll
+C:\Users\kyler\OneDrive\Documents\CIS4930 Event-Driven Architecture\esep-webhooks\EsepWebhook\src\EsepWebhook\bin\Release\net8.0\linux-x64\Newtonsoft.Json.dll
+C:\Users\kyler\OneDrive\Documents\CIS4930 Event-Driven Architecture\esep-webhooks\EsepWebhook\src\EsepWebhook\obj\Release\net8.0\linux-x64\EsepWebhook.sourcelink.json
